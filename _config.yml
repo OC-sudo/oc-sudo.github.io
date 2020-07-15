@@ -1,0 +1,43 @@
+# Site settings
+title: Olivia Chen
+description: Assitant Professor@YNU
+url: 'https://oc-sudo.github.io'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Olivia Chen'
+  email: chen-olivia-pg@ynu.ac.jp
+  twitter_username: 
+  facebook_username: oliviachen
+  github_username:  oc-sudo
+  linkedin_username:  oliviachen
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
