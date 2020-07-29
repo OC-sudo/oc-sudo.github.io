@@ -18,9 +18,9 @@ defaults:
   -
     scope:
       path: ''
-      type: 'posts'
+      type: 'about'
     values:
-        layout: 'page'
+        layout: 'about'
 
 # Build settings
 destination: _site
