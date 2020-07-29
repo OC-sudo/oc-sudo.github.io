@@ -5,14 +5,6 @@ categories: [updates]
 tags: [updates]
 ---
 
-**Research Interests　研究テーマ**　
-* Superconductive electronics 超伝導エレクトロニック
-* Energy-efficient computing　高エネルギー効率計算
-* Beyond-CMOS devices and circuits　CMOSを超えた次世代デバイスと回路
-* Deep learning hardware accelerator　深層学習加速器
-* Design automation　自動化設計
-* Electrical cell modeling for beyond-CMOS technologies　新デバイスのセルモデリング
-
 **What's new　最近の活動**
 * A research proposal has been adopted by JST presto grant. 申請した課題「アルゴリズム・ソフトウェア・ハードウェアの融合による超低電力ニューラルネットワークの構築」がJSTさきがけに採択されました！詳細：[さきがけ2019年度新規採択](https://www.jst.go.jp/kisoken/presto/application/2019/190919/190919presto.pdf?fbclid=IwAR10L3j8JDj6lXITmNgMJMPVJ3Huh0SYYd3pAwc-gVl8LkHXIwWbUEGdbj8) (Sept. 19. 2019)
 * Olivia gave an invited talk to 4th European Conference on Applied Superconductivity at Glasgow, UK. イギリスで開催されたユーロピン応用超伝導大会にて口頭発表を行いました．内容は超電導を用いた乱数発生器についての研究でした．(Sept. 2. 2019)
