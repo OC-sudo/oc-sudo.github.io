@@ -5,40 +5,9 @@
     <description>Assitant Professor @ YNU</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 30 Jul 2020 12:06:19 +0900</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2020 12:06:19 +0900</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2020 18:14:36 +0900</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2020 18:14:36 +0900</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
-    
-      <item>
-        <title>Recent Updates</title>
-        <description>&lt;p&gt;&lt;strong&gt;What’s new　最近の活動&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A research proposal has been adopted by JST presto grant. 申請した課題「アルゴリズム・ソフトウェア・ハードウェアの融合による超低電力ニューラルネットワークの構築」がJSTさきがけに採択されました！詳細：&lt;a href=&quot;https://www.jst.go.jp/kisoken/presto/application/2019/190919/190919presto.pdf?fbclid=IwAR10L3j8JDj6lXITmNgMJMPVJ3Huh0SYYd3pAwc-gVl8LkHXIwWbUEGdbj8&quot;&gt;さきがけ2019年度新規採択&lt;/a&gt; (Sept. 19. 2019)&lt;/li&gt;
-  &lt;li&gt;Olivia gave an invited talk to 4th European Conference on Applied Superconductivity at Glasgow, UK. イギリスで開催されたユーロピン応用超伝導大会にて口頭発表を行いました．内容は超電導を用いた乱数発生器についての研究でした．(Sept. 2. 2019)&lt;/li&gt;
-  &lt;li&gt;Olivia gave an invited talk to 17th International Superconductive Electronics Conference (ISEC2019) at Riverside. 米リバーサイドで開催された国際超伝導エレクトロニクス大会にて招待講演を行いました．(Jul. 30. 2019)&lt;/li&gt;
-  &lt;li&gt;A paper summarizing the energy performance of low-power superconducting circuits has been published on &lt;a href=&quot;https://www.nature.com/articles/s41598-019-46595-w&quot;&gt;Scientific Reports&lt;/a&gt;. 低電力超伝導回路のエネルギー評価に関する論文が論文誌Scientific Reportsに掲載されました．(Jul. 19. 2019)&lt;/li&gt;
-  &lt;li&gt;Olivia is invited to be a panelist on the panel of “Superconducting Electronics and EDA” by the 21st ACM/IEEE System Level Interconnect Prediction (SLIP) workshop of Design Automation Conference (DAC). (May 13. 2019)&lt;/li&gt;
-  &lt;li&gt;The research proposal has been adopted as the Scientific Research Grant (Grant-in-Aid for Early-Career Scientists). 申請した研究提案「超伝導断熱磁束量子パラメトロンを用いた低電力深層学習専用チップの開発」が科学研究補助金（科研費）若手研究に採択されました．（April 2. 2019）&lt;/li&gt;
-  &lt;li&gt;Joint work with NEU has been accepted by ISCA 2019, a top tier conference in computer architecture. This will be the first time that superconducting electronics participates in such a conference. &lt;br /&gt;米ノースイースタン大との共同研究がアーキテクチャ系のトップクラス学会であるISCAに採用されました。超伝導関連の研究が、この学会に参加するのが初めてです。かなりインパクトがあるではないかと。&lt;/li&gt;
-  &lt;li&gt;It a great pleasure to be selected by Cold Facts, the magazine of the Cryogenic Society of America, as one of the &lt;a href=&quot;https://cryogenicsociety.org/36872/news/young_professionals_2019_the_next_generation_in_cryogenics_part_1/?fbclid=IwAR1n2CxjXWKhOlH5PH_eI16I2nStuvkOHPuwL4VjAeS5-u-ndOWpgvQ1NqA&quot;&gt;young professionals of 2019&lt;/a&gt;. &lt;br /&gt;米国低温学会の雑誌「Cold Facts」2019年度若手プロフェッショナルに入選されました。（March 11. 2019）&lt;/li&gt;
-  &lt;li&gt;Invited talk at young scientist plenary of Applied Superconductivity Conference in Seattle. &lt;br /&gt;2018年度米シアトルにて開催された応用超伝導大会にプレナリーセッションで招待講演を行いました。（10/31/2018）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Contact　連絡先&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;chen-olivia-pg at (replace “at” with @) ynu.ac.jp&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 16 Jul 2020 00:04:23 +0900</pubDate>
-        <link>http://localhost:4000/2020/Recent_Updates/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/Recent_Updates/</guid>
-        
-        <category>updates</category>
-        
-        
-        <category>updates</category>
-        
-      </item>
     
   </channel>
 </rss>
