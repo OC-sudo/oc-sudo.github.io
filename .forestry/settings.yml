@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: welcome.md
+  label: Welcome
+  match: "**/*"
+- type: document
   path: pub.md
   label: Publications
 - type: heading
@@ -13,7 +17,7 @@ sections:
   path: content
   label: Home
   create: all
-  match: "*"
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
