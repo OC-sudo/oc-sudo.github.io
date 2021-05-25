@@ -14,7 +14,7 @@ sections:
   label: Navigate
 - type: directory
   path: content
-  label: Home
+  label: DOC
   create: all
   match: "**/*"
   new_doc_ext: md
