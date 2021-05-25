@@ -5,8 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: welcome.md
-  label: Welcome
+  path: about.md
+  label: About Me
 - type: document
   path: pub.md
   label: Publications
