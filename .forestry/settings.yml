@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: pub
-  label: Publication List
-  match: "**/*"
+  path: pub.md
+  label: Publications
 - type: heading
   label: Navigate
 - type: directory
