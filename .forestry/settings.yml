@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: welcome.md
-  label: Welcome
-  match: "**/*"
+  path: about.md
+  label: About Me
 - type: document
   path: pub.md
   label: Publications
@@ -15,9 +14,10 @@ sections:
   label: Navigate
 - type: directory
   path: content
-  label: Home
+  label: DOC
   create: all
   match: "**/*"
+  new_doc_ext: md
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
@@ -28,6 +28,7 @@ build:
   - HUGO_ENV=staging
   - HUGO_VERSION=0.81.0
   preview_output_directory: public
+  install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
